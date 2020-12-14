@@ -1,0 +1,10 @@
+﻿body {
+}
+
+.table-border {
+    border-collapse: collapse;
+}
+
+.table-border, th, td {
+    border: 1px solid black;
+}

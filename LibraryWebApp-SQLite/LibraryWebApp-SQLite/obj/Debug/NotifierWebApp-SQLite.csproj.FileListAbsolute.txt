@@ -1,0 +1,232 @@
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.dll.config
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.pdb
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.exe
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.exe.config
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.rsp
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csi.exe
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csi.rsp
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.AppContext.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Collections.Immutable.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.IO.FileSystem.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Reflection.Metadata.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.exe
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.exe.config
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.rsp
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\VBCSCompiler.exe
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\VBCSCompiler.exe.config
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.SqlServer.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.Web.Infrastructure.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Newtonsoft.Json.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.EF6.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.Linq.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Helpers.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Mvc.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Razor.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Deployment.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Razor.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.SqlServer.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.dll.config
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Razor.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Deployment.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Razor.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Helpers.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Mvc.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.csprojAssemblyReference.cache
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.csproj.CopyComplete
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.dll
+D:\Other\My Folder\Projects\WebApplications\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.pdb
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.dll.config
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.pdb
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.exe
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.exe.config
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.rsp
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csi.exe
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csi.rsp
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.AppContext.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Collections.Immutable.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.IO.FileSystem.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Reflection.Metadata.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.exe
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.exe.config
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.rsp
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\VBCSCompiler.exe
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\VBCSCompiler.exe.config
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.SqlServer.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.Web.Infrastructure.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Newtonsoft.Json.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.EF6.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.Linq.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Helpers.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Mvc.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Razor.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Deployment.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Razor.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.SqlServer.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.dll.config
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Razor.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Deployment.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Razor.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Helpers.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Mvc.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.csprojAssemblyReference.cache
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.csproj.CopyComplete
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.dll
+D:\NotifierWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.pdb
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.dll.config
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.pdb
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.exe
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.exe.config
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.rsp
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csi.exe
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csi.rsp
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.AppContext.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Collections.Immutable.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.IO.FileSystem.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Reflection.Metadata.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.exe
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.exe.config
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.rsp
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\VBCSCompiler.exe
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\VBCSCompiler.exe.config
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.SqlServer.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.Web.Infrastructure.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Newtonsoft.Json.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.EF6.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.Linq.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Helpers.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Mvc.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Razor.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Deployment.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Razor.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.SqlServer.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.dll.config
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Razor.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Deployment.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Razor.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Helpers.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Mvc.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.csprojAssemblyReference.cache
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.csproj.CopyComplete
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.dll
+D:\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.pdb
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.csprojAssemblyReference.cache
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.pdb
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.dll.config
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\NotifierWebApp-SQLite.pdb
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.exe
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.exe.config
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csc.rsp
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csi.exe
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\csi.rsp
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.AppContext.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Collections.Immutable.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.IO.FileSystem.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\System.Reflection.Metadata.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.exe
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.exe.config
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\vbc.rsp
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\VBCSCompiler.exe
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\roslyn\VBCSCompiler.exe.config
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.SqlServer.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.Web.Infrastructure.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Newtonsoft.Json.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.EF6.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.Linq.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Helpers.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Mvc.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Razor.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Deployment.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Razor.dll
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\EntityFramework.SqlServer.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Data.SQLite.dll.config
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Razor.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Deployment.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Webpages.Razor.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Helpers.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\System.Web.Mvc.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\NotifierWebApp-SQLite\NotifierWebApp-SQLite\obj\Debug\NotifierWebApp-SQLite.csproj.CopyComplete

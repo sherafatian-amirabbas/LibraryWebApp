@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\LibraryWebApp-SQLite\LibraryWebApp-SQLite\Publishes</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EmailProvider">
+      <publishTime>04/14/2020 01:38:23</publishTime>
+    </File>
+    <File Include="bin/EmailTemplate">
+      <publishTime>04/14/2020 18:17:15</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>09/14/2019 16:31:18</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>09/14/2019 16:31:36</publishTime>
+    </File>
+    <File Include="bin/LibraryWebApp-SQLite.dll">
+      <publishTime>12/14/2020 14:20:48</publishTime>
+    </File>
+    <File Include="bin/LibraryWebApp-SQLite.pdb">
+      <publishTime>12/14/2020 14:20:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 15:40:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 12:18:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/28/2016 13:52:24</publishTime>
+    </File>
+    <File Include="bin/NotifierWebApp-SQLite.dll">
+      <publishTime>12/09/2020 02:08:49</publishTime>
+    </File>
+    <File Include="bin/NotifierWebApp-SQLite.pdb">
+      <publishTime>12/09/2020 02:08:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 21:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Data.SQLite.dll">
+      <publishTime>10/27/2019 06:09:30</publishTime>
+    </File>
+    <File Include="bin/System.Data.SQLite.dll.config">
+      <publishTime>08/13/2018 21:19:28</publishTime>
+    </File>
+    <File Include="bin/System.Data.SQLite.EF6.dll">
+      <publishTime>10/27/2019 06:09:34</publishTime>
+    </File>
+    <File Include="bin/System.Data.SQLite.Linq.dll">
+      <publishTime>10/27/2019 06:09:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>11/28/2018 12:34:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>11/28/2018 12:29:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>11/28/2018 12:30:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>11/28/2018 12:34:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>11/28/2018 12:34:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>11/28/2018 12:34:24</publishTime>
+    </File>
+    <File Include="EmailProvider">
+      <publishTime>04/14/2020 01:08:23</publishTime>
+    </File>
+    <File Include="EmailProvider.txt">
+      <publishTime>04/14/2020 01:38:23</publishTime>
+    </File>
+    <File Include="EmailTemplate">
+      <publishTime>04/14/2020 17:47:15</publishTime>
+    </File>
+    <File Include="EmailTemplate.txt">
+      <publishTime>04/14/2020 02:18:40</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/14/2020 14:08:42</publishTime>
+    </File>
+    <File Include="Resources/CSS/StyleSheet.css">
+      <publishTime>04/13/2020 12:02:24</publishTime>
+    </File>
+    <File Include="Resources/Images/pxl.png">
+      <publishTime>04/10/2020 12:18:26</publishTime>
+    </File>
+    <File Include="Resources/JS/jquery-3.4.1.min.js">
+      <publishTime>04/11/2020 17:10:13</publishTime>
+    </File>
+    <File Include="Resources/JS/Somee.com.js">
+      <publishTime>12/01/2020 14:31:36</publishTime>
+    </File>
+    <File Include="Views/AppInfo/GetInfo.cshtml">
+      <publishTime>12/14/2020 14:08:42</publishTime>
+    </File>
+    <File Include="Views/Home/Edit.cshtml">
+      <publishTime>12/14/2020 14:08:42</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>12/14/2020 14:08:42</publishTime>
+    </File>
+    <File Include="Views/Home/_Index_.cshtml">
+      <publishTime>12/01/2020 11:39:33</publishTime>
+    </File>
+    <File Include="Views/Key/GetAllKeyList.cshtml">
+      <publishTime>04/13/2020 12:03:15</publishTime>
+    </File>
+    <File Include="Views/Receiver/EditReceiver.cshtml">
+      <publishTime>04/14/2020 11:36:29</publishTime>
+    </File>
+    <File Include="Views/Receiver/EditReceiverDesc.cshtml">
+      <publishTime>04/13/2020 12:30:26</publishTime>
+    </File>
+    <File Include="Views/Receiver/GetAll.cshtml">
+      <publishTime>04/14/2020 00:05:39</publishTime>
+    </File>
+    <File Include="Views/Shared/Message.cshtml">
+      <publishTime>04/13/2020 23:42:27</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutPage.cshtml">
+      <publishTime>12/01/2020 11:11:09</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>12/14/2020 14:08:42</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>04/13/2020 11:48:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/14/2020 14:20:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

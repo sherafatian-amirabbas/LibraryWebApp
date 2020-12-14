@@ -1,0 +1,94 @@
+﻿@model List<LibraryWebApp_SQLite.Repositories.Book>
+
+
+@using (Html.BeginForm("Create", "Home"))
+{
+    <fieldset>
+        <legend>New Book's Information</legend>
+
+
+        <table cellpadding="2" cellspacing="2" border="0" class="default-table">
+            <tr>
+                <td>Title:</td>
+                <td>@Html.TextBox("Title")</td>
+            </tr>
+            <tr>
+                <td>Description:</td>
+                <td>@Html.TextBox("Description")</td>
+            </tr>
+            <tr>
+                <td>ISBN:</td>
+                <td>@Html.TextBox("ISBN")</td>
+            </tr>
+            <tr>
+                <td>Author:</td>
+                <td>@Html.TextBox("Author")</td>
+            </tr>
+            <tr>
+                <td>Publisher:</td>
+                <td>@Html.TextBox("Publisher")</td>
+            </tr>
+            <tr>
+                <td>Abstract:</td>
+                <td>@Html.TextArea("Abstract", new { style = "width: 300px; height: 120px" })</td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: right; padding: 0px 0px 0px 0px;">
+                    <input type="submit" name="submit" />
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+}
+
+
+<br />
+<br />
+
+<table class="table-border" cellpadding="0" cellspacing=0>
+    <tr style="height: 30px;">
+        <th style="width: 220px; text-align: left; padding-left: 5px;">Title</th>
+        <th style="width: 220px; text-align: left; padding-left: 5px;">Description</th>
+        <th style="width: 220px; text-align: left; padding-left: 5px;">ISBN</th>
+        <th style="width: 220px; text-align: left; padding-left: 5px;">Author</th>
+        <th style="width: 220px; text-align: left; padding-left: 5px;">Publisher</th>
+        <th style="width: 110px; text-align: left; padding-left: 5px;">CreationDate</th>
+        <th style="width: 115px; text-align: left; padding-left: 5px;"></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td style="padding-left: 5px;">@item.Title</td>
+    <td style="padding-left: 5px;">@item.Description</td>
+    <td style="padding-left: 5px;">@item.ISBN</td>
+    <td style="padding-left: 5px;">@item.Author</td>
+    <td style="padding-left: 5px;">@item.Publisher</td>
+    <td style="padding-left: 5px;">@item.CreationDate.ToString("yyyy/MM/dd HH:mm:ss")</td>
+    <td style="padding-left: 5px;">
+        @{
+            var route_edit = Url.Action("Edit", "Home", null, Request.Url.Scheme);
+            var aHref_edit = route_edit + "/" + item.ID;
+
+            var route_delete = Url.Action("Delete", "Home", null, Request.Url.Scheme);
+            var aHref_delete = route_delete + "/" + item.ID;
+        }
+
+        <a href="@aHref_edit">Edit</a> |
+        <a href="@aHref_delete">Delete</a>
+
+    </td>
+</tr>
+    }
+</table>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+

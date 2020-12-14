@@ -1,0 +1,53 @@
+
+http://www.web-library.somee.com => our host - you can add, remove, edit books here
+
+
+
+
+~/App/Date => will get the app time (this should be our base - don't use android date-time)
+
+example: http://www.web-library.somee.com/App/Date
+
+
+
+
+~/Book/GetAll => will get the list of all books
+
+example: http://www.web-library.somee.com/Book/GetAll
+
+
+
+
+~/Book/GetAllByDateRange/{from}/{to} => will get the books created between specific time
+
+Example: http://www.web-library.somee.com/Book/GetAllByDateRange/2020-12-01%2011:54:01/2020-12-01%2011:55:59
+
+
+
+
+~/Book/GetAllByKeyword/{keyword} => will search the keyword against all the fields to return books
+
+Example: http://www.web-library.somee.com/Book/GetAllByKeyword/Pan%20MacMillan
+
+
+
+
+~/Book/GetByID/{id} => will get a specific book by its ID
+
+http://www.web-library.somee.com/Book/GetByID/a7d21193-36fa-4dde-9d72-45810a1dbc7a
+
+
+
+
+
+Entity Schema:
+
+ID: string
+Title: string
+Description: string
+Abstract: string
+ISBN: string
+Author: string
+Publisher: string
+CreationDate: DateTime 
+

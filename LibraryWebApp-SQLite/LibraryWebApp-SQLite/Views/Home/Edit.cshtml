@@ -1,0 +1,59 @@
+﻿@model List<LibraryWebApp_SQLite.Repositories.Book>
+
+
+@Html.ActionLink("Home", "Index", "Home")
+
+<br />
+<br />
+
+@using (Html.BeginForm("Edit", "Home"))
+{
+    <fieldset>
+        <legend>Edit Book's Information</legend>
+
+        @Html.Hidden("ID", (string)ViewBag.Book.ID)
+    <table cellpadding="2" cellspacing="2" border="0" class="default-table">
+        <tr>
+            <td>Title:</td>
+            <td>@Html.TextBox("Title", (string)ViewBag.Book.Title)</td>
+        </tr>
+        <tr>
+            <td>Description:</td>
+            <td>@Html.TextBox("Description", (string)ViewBag.Book.Description)</td>
+        </tr>
+        <tr>
+            <td>ISBN:</td>
+            <td>@Html.TextBox("ISBN", (string)ViewBag.Book.ISBN)</td>
+        </tr>
+        <tr>
+            <td>Author:</td>
+            <td>@Html.TextBox("Author", (string)ViewBag.Book.Author)</td>
+        </tr>
+        <tr>
+            <td>Publisher:</td>
+            <td>@Html.TextBox("Publisher", (string)ViewBag.Book.Publisher)</td>
+        </tr>
+        <tr>
+            <td>Abstract:</td>
+            <td>@Html.TextArea("Abstract", (string)ViewBag.Book.Abstract, new { style = "width: 300px; height: 120px" })</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: right; padding: 0px 0px 0px 0px;">
+                <input type="submit" name="submit" />
+            </td>
+        </tr>
+    </table>
+    </fieldset>
+}
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
